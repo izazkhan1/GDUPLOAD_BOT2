@@ -5,8 +5,8 @@ class config:
     DATABASE_URL = "postgres://nflqaispornuyd:cf86e0cd16dc5dee2b91542af84e51c65b53b9999a6a9e62eaa4d88380de72f2@ec2-52-19-170-215.eu-west-1.compute.amazonaws.com:5432/d8hj1e4q35v4tc"
     SUDO_USERS = "1709703325" # Sepearted by space.
     DOWNLOAD_DIRECTORY = "./downloads/"
-    G_DRIVE_CLIENT_ID = ""
-    G_DRIVE_CLIENT_SECRET = ""
+    G_DRIVE_CLIENT_ID = "988634265703-thgkps270uheju7pf2bmlgsctilflajc.apps.googleusercontent.com"
+    G_DRIVE_CLIENT_SECRET = "k4d5W9dIWciXMs7CD-uKCsil"
     SUPPORT_CHAT_LINK = "https://github.com/izazkhan1/GDUPLOAD_BOT2"
 
 
