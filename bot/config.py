@@ -1,13 +1,13 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
+    BOT_TOKEN = "1731468367:AAFPZoFrPfQ64bx7lQajOEVTMuiZOoym1Pk"
+    APP_ID = "5398201"
+    API_HASH = "5b8436d35c5ab09d01026c261b2b9c1b"
     DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
+    SUDO_USERS = "1709703325" # Sepearted by space.
     DOWNLOAD_DIRECTORY = "./downloads/"
     G_DRIVE_CLIENT_ID = ""
     G_DRIVE_CLIENT_SECRET = ""
-    SUPPORT_CHAT_LINK = ""
+    SUPPORT_CHAT_LINK = "https://github.com/izazkhan1/GDUPLOAD_BOT2"
 
 
 class BotCommands:
